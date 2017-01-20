@@ -1,0 +1,39 @@
+Find match: 35
+fellow
+ follow
+ flower
+ wife's
+ flowed
+ lawful
+ fellow
+ follow
+ wilful
+ flower
+ wafted
+ furrow
+ woeful
+ dwarfs
+ frowns
+ fallow
+ worauf
+ wife.'
+ fewest
+ wolf's
+ twaalf
+ werfen
+ wifely
+ whiffs
+ wafers
+ fawned
+ fowler
+ frowsy
+ flowed
+ curfew
+ lawful
+ flow'r
+ guffaw
+ furrow
+ zwoelf
+
+It took: 0.031400203704833984 с.
+
